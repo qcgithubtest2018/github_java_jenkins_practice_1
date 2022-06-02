@@ -10,9 +10,6 @@ public class Manager1
 		System.out.println("4");
 		System.out.println("Done by Developer");
 		System.out.println("GitHub-Jenkins");
-		System.out.println("GitHub-Jenkins-PushBuild");
-		System.out.println("GitHub-Jenkins-PushBuild");
-		
 	}
 }
 
